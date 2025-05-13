@@ -2,8 +2,6 @@
 
 **Created by:** Ethan Hunt  
 **Hometown:** Arcata 
-**Favorite Places to Travel & Their Weather:**
-- Tokyo, Japan: Mild & Cloudy ☁️  
-- Paris, France: Cool & Rainy 🌧️  
+**Favorite Place & Their Weather:**
 - Hawaii, USA: Sunny & Warm ☀️  
 # WeatherZip
